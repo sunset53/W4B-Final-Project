@@ -55,7 +55,7 @@ ul {
 .hero-text {
     text-align: center;
     position: absolute;
-    top: 35%;
+    top: 20%;
     left: 40%;
 }
 .hero-text h1, h3 {
@@ -121,43 +121,3 @@ footer {
     margin: 0px;
 }
 
-/*
-
-.copyright {
-    height: 10vh;
-    width: 100vw;
-    background-color: rgb(230, 158, 245);
-    display: block;
-    text-align: center;
-    list-style-type: none;
-    float: left;
-    clear: left;
-    margin: 20px;
-}
-
-
-.copyright a {
-    list-style-type: none;
-    display: inline-block;
-}
-
-/*
-#copyright {
-    text-align: left;
-    list-style-type: none;
-}
-
-#terms {
-    text-align: center;
-    list-style-type: none;
-    text-decoration: none;
-    display: inline;
-    padding: 10px;
-}
-
-#socials {
-    display: inline;
-    text-align: right;
-    list-style-type: none;
-}
-*/
